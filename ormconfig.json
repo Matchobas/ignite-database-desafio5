@@ -1,9 +1,9 @@
 {
-  "username": "postgres",
-  "password": "docker",
+  "username": "docker",
+  "password": "ignitedocker",
 
   "type": "postgres",
-  "name": "default",
+  "name": "carsapp",
   "host": "localhost",
   "port": 5432,
   "database": "queries_challenge",
